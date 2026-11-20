@@ -1,0 +1,2 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" session="false" %>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#193f37"><title>LibMan · Thư viện đại học</title><link rel="stylesheet" href="assets/app.css"><script type="module" src="assets/app.js"></script></head><body><main id="app" aria-live="polite"><p class="loading">Đang mở thư viện…</p></main><dialog id="dialog"></dialog><div id="toast" role="status"></div></body></html>
